@@ -1,4 +1,4 @@
-# WineQualityML
+# Wine Quality AI
 
 Predicting the wine quality of different wines based on their pH, citrus acid content, sulphates and alcohol.
 Dataset from Kaggle.
